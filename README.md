@@ -2,7 +2,7 @@
 
 The content here accompanies the following blog post:
 
-### not yet published
+https://methodmatters.github.io/music-song-key-mode-genre-clustering/
 
 The data are in the "Data" directory and the code in the "Scripts" directory. 
 
